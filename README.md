@@ -13,4 +13,4 @@ To sign-in, students click the link that they have been sent and students were i
 
 The activity used in this workshop was the 'SSH into Amazon EC2 Activity' (available via AWS Educate) which involves launching an EC2 instance via the AWS Management Console, enabling and disabling SSH access, using SSH keys to access the instance, resizing the instance and terminating it upon completion. This activity takes students approxminately 1 hour. 
 
- ![Photo by John Schnobrich via Unsplash](https://unsplash.com/photos/FlPc9_VocJ4)
+ ![](https://github.com/coughls/Cloud-Computing-Workshop/blob/main/john-schnobrich-FlPc9_VocJ4-unsplash.jpg)
