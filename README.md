@@ -1,6 +1,6 @@
 # Cloud Computing Workshop using AWS 
 
-*Workshop on cloud computing using AWS for Genomics Data Science PhD Students at National University of Ireland, Galway*
+*Workshop on cloud computing using AWS for [Genomics Data Science PhD Students]([Genomics Data Science PhD Students](https://genomicsdatascience.ie/) at National University of Ireland, Galway*
 
 ## Presentation
 - [Presentation](https://github.com/coughls/Cloud-Computing-Workshop/blob/main/Cloud%20workshop.pdf)
